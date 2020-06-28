@@ -1,7 +1,7 @@
 # Machine-Learning-Classification
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
-The bank-marketing.csv dataset contains 41188 observations (rows) and 21 features (columns). The dataset contains 10 numerical features (age, duration, campaign, pdays, previous, emp.var.rate, cons.price.idx, cons.conf.idx, euribor3m, nr.employed) and 11 nominal features (job, marital, education, default, housing, loan, contact, month, day_of_week, poutcome, y) that were converted into factors with numerical value designated for each level.
+The bank-marketing.csv dataset contains 41188 observations (rows) and 21 features (columns). The dataset contains 10 numerical features (age, duration, campaign, pdays, previous, emp.var.rate, cons.price.idx, cons.conf.idx, euribor3m, nr.employed) and 11 nominal features (job, marital, education, default, housing, loan, contact, month, day_of_week, poutcome, y) that were converted into factors with numerical value designated for each level. Dataset available on https://www.kaggle.com/henriqueyamahata/bank-marketing
 
 Backward elimination is used as feature elimination technique.
 
